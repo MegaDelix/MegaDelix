@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Мои инструменты:</h3>
 
 ###
 
@@ -38,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" height="40" alt="AU logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt=" logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
