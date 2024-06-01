@@ -12,8 +12,25 @@
 <p align="left">Я студент 4 курса. Направление подготовки - прикладная информатика. Есть навыки в работе с 3D графикой (Cinema 4D, Unreal Engine 5), навыки в работе с продуктами Adobe (Photoshop, Premiere Pro, Audition). Могу работать с кодом python, могу писать сайты и работаю с базами данных, умею работать в react. Это лишь небольшое перечисление из всего возможного. </p>
 
 ###
+<style>
+ .site_button {
+    margin-top: 20px;
+}
 
-<a href="http://c95301sd.beget.tech/index.php">Мой сайт</a>
+.site_button button {
+    background-color: #6c5ce7;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.site_button button:hover {
+    background-color: #4a3ecc;
+}
+</style>
+<a href="http://c95301sd.beget.tech/index.php" class="site_button"><button>Мой сайт</a></button>
 
 ###
 
