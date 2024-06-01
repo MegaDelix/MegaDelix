@@ -13,6 +13,10 @@
 
 ###
 
+<a href="http://c95301sd.beget.tech/index.php">Мой сайт</a>
+
+###
+
 <p align="center">
  <img width="600" src="assets/snake.svg" alt="snake"/>
 </p>
