@@ -14,7 +14,7 @@
 
 ###
 <a href="http://c95301sd.beget.tech/index.php" class="site_button" style="background-color: #6c5ce7; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer; text-decoration: none; display: inline-block;">
-    Мой сайт
+    Мой сайт "по-приколу"
 </a>
 
 ###
