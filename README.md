@@ -5,7 +5,7 @@
 
 ###
 
-**Направление прикладной информатики** (ЧКИ РУК)
+
 
 - 🔭 Опыт работы с 3D-графикой: Cinema 4D, Blender, Unreal Engine 5  
 - 🛠 Владею продуктами Adobe: Photoshop, Premiere Pro, Audition  
