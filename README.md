@@ -2,7 +2,7 @@
 
 **Дисклеймер!** Аудио для персонажей было переведено, сыграно и записано человеком вручную, с тщательным сохранением оригинальной интонации и эмоционального контекста. Затем голосовая модель была применена **исключительно** в качестве аудиофильтра для адаптации тембра. Полученное аудио применяется только обратно в ту же самую игру.
 
-![DeadloRUS Banner](https://img.shields.io/badge/DeadloRUS-localization-purple?style=for-the-badge&logo=microphone&logoColor=white) ![Game](https://img.shields.io/badge/Game-Deadlock-red?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-0.1.0-800080?style=for-the-badge)
+![DeadloRUS Banner](https://img.shields.io/badge/DeadloRUS-localization-purple?style=for-the-badge&logo=microphone&logoColor=white) ![Game](https://img.shields.io/badge/Game-Deadlock-red?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-0.1.1-800080?style=for-the-badge)
 
 ## 🇷🇺 О проекте DeadloRUS
 Всем привет! Представляю вам **DeadloRUS** — проект русской локализации для героев Deadlock. Проект находится на старте и поэтому **огромная** часть реплик не переведена. **Реплики переводятся по мере возможности и свободного времени.**
