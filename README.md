@@ -36,7 +36,24 @@
 3. Переместите файл `deadlorus.vpk` в папку с игрой по пути:  
    `Steam\steamapps\common\Deadlock\game\citadel\addons\`  
    *(Если папки `addons` нет — просто создайте её).*
-4. Запустите игру.
+4. Откройте файл `gameinfo.gi` и заменить блок `SearchPaths`  на кусок параметров поиска мода ниже:
+```
+// Deadlock Mod Manager - Start
+
+		SearchPaths
+        {  
+            Game                citadel/addons
+            Mod                 citadel
+            Write               citadel          
+            Game                citadel
+            Mod                 core
+            Write               core
+            Game                core        
+        }
+// Deadlock Mod Manager - End
+```
+   *Если у вас конфликт имён файлов, просто переименуйте файл `deadlorus.vpk` на, например, `pak01_dir.vpk` или `pak02_dir.vpk`*
+5. Запустите игру.
 
 ---
 
